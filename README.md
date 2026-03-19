@@ -1,1 +1,1 @@
-# script
+# script to personize tammoOS
